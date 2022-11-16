@@ -1,5 +1,5 @@
 fib = []
-number = int(input("Enter number:"))
+number = int(input("Vavedete chislo:"))
 
 for i in range(0, number + 2):
     if i == 0:
